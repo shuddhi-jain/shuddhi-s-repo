@@ -6,7 +6,7 @@ int main()
 	char c[30],f;
 	puts("enter sentence");
 	gets(c);
-	puts("enter specific character");
+	puts("specific character");
 	scanf("%c",&f);
 	for(i=0;i<strlen(c) ;i++,j++)
 	{
