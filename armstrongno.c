@@ -13,7 +13,7 @@ int main()
 		m=m/10;
 	}
 	if(sum==n)
-	printf("armstrong no.");
+	printf("armstring no.");
 	else
 	printf("not a armstrong no.");
 }
