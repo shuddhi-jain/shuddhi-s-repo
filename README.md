@@ -1,2 +1,2 @@
 # shuddhi_hactober2021
-hactoberfest/hactober-accepted
+Contribute your work
