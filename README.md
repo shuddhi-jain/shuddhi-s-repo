@@ -1,2 +1,2 @@
-# shuddhi_hactober2021
+# shuddhi-s-repo
 Contribute your work
