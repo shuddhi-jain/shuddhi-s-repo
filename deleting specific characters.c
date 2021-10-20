@@ -18,5 +18,6 @@ int main()
 		c[j]=c[i];
 	}
 	c[j]='\0';
-     puts(c);
+	printf("the specific character len is  :");
+        puts(c);
 	 }
